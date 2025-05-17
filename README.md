@@ -23,7 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM:
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -147,7 +147,7 @@ Publish the website in the given URL.
 </body>
 
 </html>
-'''
+```
 
 # OUTPUT:
 ![Screenshot 2025-05-09 210202](https://github.com/user-attachments/assets/9c7fb221-3b14-46b8-9d57-88364765540a)
